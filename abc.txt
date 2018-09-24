@@ -1,2 +1,2 @@
-Creating a merge without conflict
-
+Creating a merge without conflict z myjm
+adding new line
